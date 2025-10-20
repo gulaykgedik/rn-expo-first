@@ -20,3 +20,8 @@ It showcases three main features:
 | **@react-navigation/native** | Navigation between screens |
 | **react-native-screens**, **react-native-safe-area-context** | Navigation optimization |
 | **expo** | Core framework for React Native development |
+
+
+## Screenshot
+
+![expo-first](https://github.com/user-attachments/assets/e6feb37f-970a-4028-893f-fcd03d34e30c)
