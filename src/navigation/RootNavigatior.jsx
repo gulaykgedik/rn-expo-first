@@ -5,6 +5,7 @@ import LocationPage from '../pages/LocationPage';
 import FilePage from '../pages/FilePage';
 import CameraPage from '../pages/CameraPage';
 import AVPage from '../pages/AVPage';
+import VideoPage from '../pages/VideoPage';
 
 const Stack = createNativeStackNavigator();
 const RootNavigatior = () => {
@@ -15,6 +16,7 @@ const RootNavigatior = () => {
       <Stack.Screen name="FilePage" component={FilePage} />
       <Stack.Screen name="CameraPage" component={CameraPage} />
       <Stack.Screen name="AVPage" component={AVPage} /> 
+      <Stack.Screen name="VideoPage" component={VideoPage} />
    </Stack.Navigator>
   )
 }

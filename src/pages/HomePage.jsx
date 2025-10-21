@@ -9,7 +9,10 @@ const HomePage = () => {
         LocationPage
       </Link>
       <Link to="AVPage">
-        Audio/Video Page
+        Audio Page
+      </Link>
+        <Link to="VideoPage">
+       Video Page
       </Link>
       <Link to="FilePage">
         Filesystem Page
